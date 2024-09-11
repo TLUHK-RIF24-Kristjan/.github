@@ -5,5 +5,5 @@
 ## Miks ma tulin õppima Haapsalu Kolledžisse?
 
 * Sessiooniõpe vormi sobivus elukorraldusega
-* Logistiliselt sobin kuna Haapsalus on naguni vaja rohkem käia.
+* Logistiliselt sobiv. (Haapsalus on naguni vaja rohkem käia)
 * Võimalik, et seda saaks ka defineerida kui keskeakriisi, aga pigem ütleks, et IT bakalaureuse omandamine on liiga pikalt venima jäänud.
